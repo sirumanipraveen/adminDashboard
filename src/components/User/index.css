@@ -1,0 +1,38 @@
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.cart-img {
+  width: 150px;
+}
+.blog-list-container {
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+}
+.headingg {
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'roboto';
+  color: rgb(33, 87, 215);
+  padding: 50px;
+  overflow: auto;
+}
+.loadingg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paragraph{
+  font-size: 29px;
+  text-align: center;
+  color: black;
+  font-family: "roboto";
+  font-weight: bold;
+
+}
